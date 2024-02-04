@@ -1,0 +1,10 @@
+- id: taplo
+  name: taplo-cli
+  description: "A TOML toolkit written in Rust"
+  entry: taplo format
+  language: python
+  types: [toml]
+  args: []
+  require_serial: false
+  additional_dependencies: []
+  minimum_pre_commit_version: "0"
