@@ -1,3 +1,15 @@
+  - id: taplo
+    alias: taplo
+    name: taplo
+    description: Format TOML documents
+    entry: taplo format
+    language: python
+    types: [toml]
+    args: []
+    require_serial: false
+    additional_dependencies: []
+    minimum_pre_commit_version: "0"
+
   - id: taplo-format
     alias: taplo
     name: taplo-format
