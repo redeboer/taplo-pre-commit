@@ -1,5 +1,8 @@
 # Pre-commit hook for the Taplo TOML formatter
 
+> [!WARNING]
+> This is an archived fork of [ComPWA/taplo-pre-commit](https://github.com/ComPWA/taplo-pre-commit). Please use that repository instead!
+
 Mirror of [github.com/tamasfe/taplo](https://github.com/tamasfe/taplo) and the [`taplo` PyPI package](https://pypi.org/project/taplo) for [pre-commit](https://pre-commit.com).
 
 ### Using Taplo with pre-commit
